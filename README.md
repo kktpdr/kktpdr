@@ -15,6 +15,10 @@ Browsers:		Chrome, Safari, FireFox, Opera, Edge
 Database:		fundamentals of Oracle, MySQL, MS SQL, MS Access  
 Tools: 		    Git, GitHub, ADB, Slack, Postman  
 
+## My links
+
+![LinkedIn](https://www.linkedin.com/in/mikhail-a-0b0b94204/)
+![Telegram](https://t.me/mechanizzzm)
 
 
 
