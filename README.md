@@ -1,12 +1,10 @@
 # I'm a QA Engineer
 
----
 
 ## My CV
 
 [Link to my CV](https://docs.google.com/document/d/1ZXm_Rub609JJ5u6mX-dDsWK7e6HJPDyY/edit?usp=share_link&ouid=116725339981788237776&rtpof=true&sd=true)
 
----
 
 ## Technical Skills
 
@@ -17,7 +15,6 @@ Browsers:		Chrome, Safari, FireFox, Opera, Edge
 Database:		fundamentals of Oracle, MySQL, MS SQL, MS Access  
 Tools: 		    Git, GitHub, ADB, Slack, Postman  
 
----
 
 
 
