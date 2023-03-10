@@ -14,7 +14,7 @@
 ## My links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/mikhail-a-0b0b94204/)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/mechanizzzm) [![Mail](https://img.shields.io/badge/Message%20ME-090909?style=for-the-badge&logo=protonmail)](mailto:asmykovich.m@protonmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/mechanizzzm) [![Mail](https://img.shields.io/badge/Message%20ME-090909?style=for-the-badge&logo=protonmail)](mailto:asmykovich.m@protonmail.com?body=Hi%20Mikhail%2C%0D%0A%0D%0A)
 
 
 
