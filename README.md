@@ -1,9 +1,9 @@
 # I'm a QA Engineer
 
 
-## My CV
+## My resume
 
-[Link to my CV](https://docs.google.com/document/d/1ZXm_Rub609JJ5u6mX-dDsWK7e6HJPDyY/edit?usp=share_link&ouid=116725339981788237776&rtpof=true&sd=true)
+[Link to my resume](https://docs.google.com/document/d/1ZXm_Rub609JJ5u6mX-dDsWK7e6HJPDyY/edit?usp=share_link&ouid=116725339981788237776&rtpof=true&sd=true)
 
 
 ## Languages and Tools
