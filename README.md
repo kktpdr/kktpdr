@@ -7,12 +7,12 @@
 
 ## Technical Skills
 
-##### Programming:	HTML5, CSS, MD, C#, SQL
-##### Bug Tracking:	Jira, Bugzilla
-##### OS/Platforms:	Windows, macOS, iOS, Android
-##### Browsers:		Chrome, Safari, FireFox, Opera, Edge
-##### Database:		fundamentals of Oracle, MySQL, MS SQL, MS Access
-##### Tools: 		    Git, GitHub, ADB, Slack, Postman
+Programming:	HTML5, CSS, MD, C#, SQL  
+Bug Tracking:	Jira, Bugzilla  
+OS/Platforms:	Windows, macOS, iOS, Android  
+Browsers:		Chrome, Safari, FireFox, Opera, Edge  
+Database:		fundamentals of Oracle, MySQL, MS SQL, MS Access  
+Tools: 		    Git, GitHub, ADB, Slack, Postman  
 
 
 
