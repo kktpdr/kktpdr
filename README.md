@@ -12,7 +12,7 @@ ug Tracking:	Jira, Bugzilla
 OS/Platforms:	Windows, macOS, iOS, Android
 Browsers:		Chrome, Safari, FireFox, Opera, Edge
 Database:		fundamentals of Oracle, MySQL, MS SQL, MS Access
-Tools: 		Git, GitHub, ADB, Slack, Postman
+Tools: 		    Git, GitHub, ADB, Slack, Postman
 
 
 
