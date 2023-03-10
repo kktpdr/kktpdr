@@ -6,9 +6,10 @@
 [Link to my CV](https://docs.google.com/document/d/1ZXm_Rub609JJ5u6mX-dDsWK7e6HJPDyY/edit?usp=share_link&ouid=116725339981788237776&rtpof=true&sd=true)
 
 
-## Technical Skills
+## Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS) ![C#](https://img.shields.io/badge/Csharp-090909?style=for-the-badge&logo=C#) ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL) ![JIRA](https://img.shields.io/badge/JIRA-090909?style=for-the-badge&logo=JIRA) ![Bugzilla](https://img.shields.io/badge/Bugzilla-090909?style=for-the-badge&logo=Bugzilla) ![Oracle](https://img.shields.io/badge/Oracle-090909?style=for-the-badge&logo=Oracle) ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL) ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub) ![ADB](https://img.shields.io/badge/ADB-090909?style=for-the-badge&logo=ADB) ![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=Slack) ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)  
+![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS) ![C#](https://img.shields.io/badge/Csharp-090909?style=for-the-badge&logo=C#) ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL) ![JIRA](https://img.shields.io/badge/JIRA-090909?style=for-the-badge&logo=JIRA) ![Bugzilla](https://img.shields.io/badge/Bugzilla-090909?style=for-the-badge&logo=Bugzilla) ![TestFlight](https://img.shields.io/badge/TestFlight-090909?style=for-the-badge&logo=TestFlight) ![ADB](https://img.shields.io/badge/ADB-090909?style=for-the-badge&logo=ADB) ![Oracle](https://img.shields.io/badge/Oracle-090909?style=for-the-badge&logo=Oracle) ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL) ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub)  ![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=Slack) ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman) 
+
 
 ## My links
 
