@@ -8,12 +8,7 @@
 
 ## Technical Skills
 
-Programming:	![HTML](https://img.shields.io/badge/HTML5-090909), CSS, MD, C#, SQL  
-Bug Tracking:	Jira, Bugzilla  
-OS/Platforms:	Windows, macOS, iOS, Android  
-Browsers:		Chrome, Safari, FireFox, Opera, Edge  
-Database:		fundamentals of Oracle, MySQL, MS SQL, MS Access  
-Tools: 		    Git, GitHub, ADB, Slack, Postman  
+![HTML](https://img.shields.io/badge/HTML5-090909) ![CSS](https://img.shields.io/badge/MD-090909) ![MD](https://img.shields.io/badge/MD-090909) ![C#](https://img.shields.io/badge/C#-090909) ![SQL](https://img.shields.io/badge/SQL-090909) ![JIRA](https://img.shields.io/badge/JIRA-090909) ![Bugzilla](https://img.shields.io/badge/Bugzilla-090909) ![Oracle](https://img.shields.io/badge/Oracle-090909) ![MySQL](https://img.shields.io/badge/MySQL-090909) ![Git](https://img.shields.io/badge/Git-090909) ![GitHub](https://img.shields.io/badge/GitHub-090909) ![ADB](https://img.shields.io/badge/ADB-090909) ![Slack](https://img.shields.io/badge/Slack-090909) ![Postman](https://img.shields.io/badge/Postman-090909)  
 
 ## My links
 
