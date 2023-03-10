@@ -17,8 +17,8 @@ Tools: 		    Git, GitHub, ADB, Slack, Postman
 
 ## My links
 
-[LinkedIn()](https://www.linkedin.com/in/mikhail-a-0b0b94204/)
-[Telegram()](https://t.me/mechanizzzm)
+[LinkedIn(https://github.com/kktpdr/kktpdr/blob/main/assets/LinkedIn_icon_circle.svg.png = 50x50)](https://www.linkedin.com/in/mikhail-a-0b0b94204/)
+[Telegram(https://github.com/kktpdr/kktpdr/blob/main/assets/Telegram-icon-on-transparent-background-PNG.png = 50x50)](https://t.me/mechanizzzm)
 
 
 
