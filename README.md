@@ -17,8 +17,8 @@ Tools: 		    Git, GitHub, ADB, Slack, Postman
 
 ## My links
 
-![LinkedIn](https://www.linkedin.com/in/mikhail-a-0b0b94204/)
-![Telegram](https://t.me/mechanizzzm)
+[LinkedIn](https://www.linkedin.com/in/mikhail-a-0b0b94204/)
+[Telegram](https://t.me/mechanizzzm)
 
 
 
