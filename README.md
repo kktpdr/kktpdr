@@ -7,7 +7,7 @@
 
 ## Languages and tools
 
-![Header](https://img.shields.io/badge/<LABEL>-<JIRA>-<BLACK>)
+![Header](https://img.shields.io/badge/JIRA-BLACK>)
 
 
 
