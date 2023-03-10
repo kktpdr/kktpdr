@@ -8,7 +8,7 @@
 
 ## Technical Skills
 
-Programming:	HTML5, CSS, MD, C#, SQL  
+Programming:	![HTML](https://img.shields.io/badge/HTML5-090909), CSS, MD, C#, SQL  
 Bug Tracking:	Jira, Bugzilla  
 OS/Platforms:	Windows, macOS, iOS, Android  
 Browsers:		Chrome, Safari, FireFox, Opera, Edge  
